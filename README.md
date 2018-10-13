@@ -10,7 +10,7 @@ A simple wireless scoreboard project concept using NodeMCU-32S.
 
 ## About the Project
 
-* Scores are manipulated thru the browser by opening the NodeMCU's assigned IP address.
+* Scores are manipulated thru the browser by accessing the NodeMCU's assigned IP address.
 
 * This project uses the 74HC595 (shift register) to drive six (3 each team) 7-segments (42 pins)
 
