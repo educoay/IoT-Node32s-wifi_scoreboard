@@ -2,6 +2,12 @@
 
 A simple wireless scoreboard project concept using NodeMCU-32S.
 
+## WebGUI preview
+![alt text](https://github.com/senducusin/IoT-Node32s-wifi_scoreboard/blob/master/img/ui-preview.png)
+
+## Circuit preview
+![alt text](https://github.com/senducusin/IoT-Node32s-wifi_scoreboard/blob/master/img/circuit-preview.jpg)
+
 ## About the Project
 
 * Scores are manipulated thru the browser by opening the NodeMCU's assigned IP address.
