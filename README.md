@@ -28,9 +28,13 @@ bunch of wires
 
 ## Built with
 Arduino IDE: https://www.arduino.cc/en/Main/Software
+
 ShiftRegister74HC595 by Timo Denk
+
 WiFiClient built-in library
+
 ESP32WebServer from IOTSHARING.COM
+
 WiFi by Pranav Cherukupalli
 
 ## Author
