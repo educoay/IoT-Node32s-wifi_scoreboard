@@ -26,6 +26,9 @@ A simple wireless scoreboard project concept using NodeMCU-32S.
 bunch of wires
 ```
 
+## Schematic Diagram
+https://www.digikey.com/schemeit/project/wifi-scoreboard-DMD2HC8401NG/
+
 ## Built with
 Arduino IDE: https://www.arduino.cc/en/Main/Software
 
